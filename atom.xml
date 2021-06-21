@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rasine Blog</title>
+  
+  <subtitle>Rasine Blog</subtitle>
+  <link href="http://rasine.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://rasine.github.io/"/>
+  <updated>2021-06-21T03:48:18.820Z</updated>
+  <id>http://rasine.github.io/</id>
+  
+  <author>
+    <name>rasine</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mysql常用操作备注</title>
+    <link href="http://rasine.github.io/2021/06/21/mysql_handbook/"/>
+    <id>http://rasine.github.io/2021/06/21/mysql_handbook/</id>
+    <published>2021-06-21T03:22:48.000Z</published>
+    <updated>2021-06-21T03:48:18.820Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;s</summary>
+      
+    
+    
+    
+    
+    <category term="mysql" scheme="http://rasine.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shell基础操作</title>
+    <link href="http://rasine.github.io/2021/06/21/shell_cmd/"/>
+    <id>http://rasine.github.io/2021/06/21/shell_cmd/</id>
+    <published>2021-06-21T03:22:48.000Z</published>
+    <updated>2021-06-21T03:49:27.702Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1、查找当前目录下占用为0字节的文件并删除&lt;/p&gt;
+&lt;p&gt;find ./ -type f -size 0 -exec rm -rf {};    #此命令不要用于对根目录0字节文件的操作&lt;/p&gt;
+&lt;p&gt;2、将系统进程按内存占用大小排列显示出来&lt;/p&gt;
+&lt;p&gt;ps -e  -</summary>
+      
+    
+    
+    
+    
+    <category term="shell" scheme="http://rasine.github.io/tags/shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://rasine.github.io/2021/06/21/test/"/>
+    <id>http://rasine.github.io/2021/06/21/test/</id>
+    <published>2021-06-21T03:22:48.000Z</published>
+    <updated>2021-06-21T03:22:48.107Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>git常用操作</title>
+    <link href="http://rasine.github.io/2021/06/21/git_handbook/"/>
+    <id>http://rasine.github.io/2021/06/21/git_handbook/</id>
+    <published>2021-06-21T03:22:48.000Z</published>
+    <updated>2021-06-21T03:47:58.171Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;变量配置&quot;&gt;&lt;a href=&quot;#变量配置&quot; class=&quot;headerlink&quot; title=&quot;变量配置&quot;&gt;&lt;/a&gt;变量配置&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;</summary>
+      
+    
+    
+    
+    
+    <category term="git" scheme="http://rasine.github.io/tags/git/"/>
+    
+  </entry>
+  
+</feed>
